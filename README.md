@@ -8,9 +8,11 @@ I'm a **software engineer** and I`m working in Big Data. Trying to learn a lot t
 
 - 💻 Background: Big Data Engineer.
 
-- 😄 Backend Technologies: Scala (Main), Go, C++, Java, Python, etc..
+- 🛠️ Backend Technologies: Scala (Main), Go, C++, Java, Python, etc..
 
 - ⚙️ Big Data Technologies: Spark, Hive, Impala, Cloudera, Hadoop, etc..
+
+- 😄 Fronted Techonologies: HTML, CSS, JavaScript, Jquery
 
 - 🎁 Fun fact: I love the investmen World.
 
