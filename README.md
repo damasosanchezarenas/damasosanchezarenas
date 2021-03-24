@@ -1,16 +1,12 @@
 ### Welcome to my house 👋
 
-I'm a **software engineer** and I'm working in Big Data. Trying to learn a lot of technologies to have a global vision: Devops, Docker, Cloud, Go, etc..
+I'm a **software engineer** and I'm working in Big Data. Trying to learn a lot of technologies to have a global vision.
 
 - 🚀 My Dream: Create my own startup and expand it around the world.
-
-- 🔭 I’m currently working on Daimler A.G as Data Scientist. Python, Azure, ML.
 
 - 💻 Background: Big Data Engineer.
 
 - 🛠️ Backend Technologies: Scala (Main), Go, C++, Java, Python, etc..
-
-- ⚙️ Big Data Technologies: Spark, Hive, Impala, Cloudera, Hadoop, etc..
 
 - 😄 Fronted Techonologies: HTML, CSS, JavaScript, Jquery
 
